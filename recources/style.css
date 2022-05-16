@@ -362,7 +362,7 @@
     }
     /* media query for the phone/ devices under max-width of 375px */
     
-    @media only screen and (max-width: 375px) {
+    @media only screen and (max-width: 1080px) {
         .purple-thing-left {
             position: absolute;
             padding-top: 100px;
